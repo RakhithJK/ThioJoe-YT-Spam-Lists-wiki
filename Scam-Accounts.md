@@ -9,3 +9,6 @@
    * Of course, NEVER contact scammers, and never reply to spam comments, because sometimes you can get caught as a false positive
    * Try to only submit scam accounts from comments that aren't very old (within the past couple). Many of these accounts become abandoned or get suspended after a while, so it really only makes sense to add accounts known to be active
    * Don't worry about submitting any phone numbers, they should already get caught by the program's existing spam filters
+
+## Examples
+<p align="center"><img width="850" alt="Telegram Instagram Spam Accounts" src="https://user-images.githubusercontent.com/12518330/147953877-65811d15-feb6-48f4-9a72-912db59d03fc.png"></p>
