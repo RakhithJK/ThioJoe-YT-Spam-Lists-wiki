@@ -1,4 +1,4 @@
-## Spam Domains Info
+## What is Meant By "Spam Domains"
 Spam domains are rather self-explanatory. Spammers of various types will leave a spam comment directing you to a particular domain.
 
 ## Notes Before Submitting
