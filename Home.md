@@ -1,4 +1,4 @@
-# Descriptions and Examples By Type:
+# Descriptions and Examples By Spam Type:
 * ## [Spam Domains](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki/Spam-Domains)
 * ## [Scam Accounts](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki/Scam-Accounts)
 * ## [Scam Threads](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki/Scam-Threads)
