@@ -1,7 +1,7 @@
 # Descriptions and Examples By Type:
 * ## [Spam Domains](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki/Spam-Domains)
 * ## [Scam Accounts](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki/Scam-Accounts)
-* ## Scam Threads
+* ## [Scam Threads](https://github.com/ThioJoe/YT-Spam-Domains-List/wiki/Scam-Threads)
 
 (Visit each link for more details about how to categorize submissions, including examples)
 
