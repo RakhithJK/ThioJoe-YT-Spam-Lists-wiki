@@ -9,3 +9,5 @@
 * Even though the usernames mentioned in these scam threads could be considered 'scam accounts' by my other definition, only submit these kinds of threads to this category.  I want to differentiate them so I can handle them differently than other comment types.
 * In your submission, try to include all the variations of the scam name used, plus the actual social media handle
    * Some examples of variations used: "Mrs Jane Doe Smith", "Ms Jane Doe Smith", "Jane Doe Smith", "janesmithzzz" (username example)
+   * Don't include the usernames of the fake bot commenters themselves, unless the scam account is put into the account name (such as a bot leaving a comment that says 'contact the person in my username', or using upwards pointing emojis or whatever)
+* Stick to scam threads that are being used in relatively recent comments (within the past few weeks). Very old accounts may be abandoned or banned already.
