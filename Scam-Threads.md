@@ -11,3 +11,7 @@
    * Some examples of variations used: "Mrs Jane Doe Smith", "Ms Jane Doe Smith", "Jane Doe Smith", "janesmithzzz" (username example)
    * Don't include the usernames of the fake bot commenters themselves, unless the scam account name is put into the bot's username (such as a bot leaving a comment that says 'contact the person in my username', or using upwards pointing emojis or whatever)
 * Stick to scam threads that are being used in relatively recent comments (within the past few weeks). Very old accounts may be abandoned or banned already.
+
+## Examples
+<p align="center"><img alt="Spam Domain 1" src="https://user-images.githubusercontent.com/12518330/147957154-56f1c645-c14e-4f8a-b2c0-b0cd72796597.png"></p>
+<p align="center"><img alt="Spam Domain 1" src="https://user-images.githubusercontent.com/12518330/147957157-1bf52bd5-9665-48cd-9e36-f39747592114.png"></p>
