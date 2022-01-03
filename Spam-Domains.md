@@ -1,5 +1,6 @@
 ## What Is Meant By "Spam Domains"
-Spam domains are rather self-explanatory. Spammers of various types will leave a spam comment directing you to a particular domain.
+* Spam domains are rather self-explanatory. Spammers of various types will leave a spam comment directing you to a particular domain.
+* Some common examples types of spam comments with spam domain links: Porn bots, free Robux/Vbucks scams, cd key / keygen scams, etc
 
 ## Notes Before Submitting
 * **NEVER** visit the spam domains. At best they are scams advertising something sketchy, and at worst they could contain malicious code.
