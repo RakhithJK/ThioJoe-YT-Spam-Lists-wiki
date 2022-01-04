@@ -12,3 +12,9 @@
 
 ## Examples
 <p align="center"><img width="850" alt="Telegram Instagram Spam Accounts" src="https://user-images.githubusercontent.com/12518330/147953877-65811d15-feb6-48f4-9a72-912db59d03fc.png"></p>
+
+### In these, the 'scam accounts' to submit are: 
+* ROGE***98
+* legit***10
+* VEN***LZ
+(They're censored in these examples, but don't censor them in the submission)
