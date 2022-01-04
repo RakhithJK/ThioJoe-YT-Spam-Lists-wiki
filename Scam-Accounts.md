@@ -13,7 +13,7 @@
 ## Examples
 <p align="center"><img width="850" alt="Telegram Instagram Spam Accounts" src="https://user-images.githubusercontent.com/12518330/147953877-65811d15-feb6-48f4-9a72-912db59d03fc.png"></p>
 
-They're censored in these examples, but don't censor them in the submission. Note how I didn't include the username of the commenter, but only any username they _refer to_, highlighted by the red boxes. This applies also if the 'scam account name' is in the comment text.
+They're censored in these examples below, but don't censor them in the submission. Note how I don't include the username of the commenter, but only any username they _refer to_, highlighted by the red boxes. This applies also if the 'scam account name' is in the comment text.
 
 ### In these, the 'scam accounts' to submit are: 
 * ROGE***98
