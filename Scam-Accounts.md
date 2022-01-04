@@ -18,4 +18,4 @@
 * legit***10
 * VEN***LZ
 
-They're censored in these examples, but don't censor them in the submission. Note how I didn't include the username of the commenter, but only any username they _refer to_. This applies also if the 'scam account name' is in the comment text.
+They're censored in these examples, but don't censor them in the submission. Note how I didn't include the username of the commenter, but only any username they _refer to_, highlighted by the red boxes. This applies also if the 'scam account name' is in the comment text.
