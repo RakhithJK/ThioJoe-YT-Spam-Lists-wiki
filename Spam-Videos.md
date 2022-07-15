@@ -6,6 +6,7 @@
 ## Notes Before Submitting
 * Avoid clicking the links to prevent the algorithm from thinking the video is popular
 * You can copy and paste the whole link, or just the ID portion of the link
+* For now, spam video IDs are included in the "Spam Domains List" - Scroll to the bottom of that to see the list
 
 ## Examples
 <p align="center"><img width="400" alt="Spam Vids 1" src="https://user-images.githubusercontent.com/12518330/179284470-33f2cda6-2fac-4d20-b8d0-6b0484f05dd4.png"></p>
